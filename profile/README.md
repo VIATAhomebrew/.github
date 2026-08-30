@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>⚡ VIATAhomebrew ⚡</h1>
+  <h1>⚡ VIATAhos ⚡</h1>
 
   <h3>The independently developed, human-driven, homebrew operating system.</h3>
 
